@@ -9,13 +9,13 @@ somem a um alvo específico.
 Você pode assumir que cada entrada teria exatamente uma solução, e você não pode usar o 
 mesmo elemento duas vezes.
 
-_Exemplo:
+Exemplo:
 
 Dado nums = [2, 7, 11, 15], alvo = 9,
 
 Como nums[0] + nums[1] = 2 + 7 = 9,
 
-return [0, 1]._
+return [0, 1].
 
 
 
@@ -30,13 +30,13 @@ de abertura, (, e o segundo inclui um bracket de fechamento desbalanceado,].
 Dado sequencias de caracteres, determine se cada sequência de brackets é balanceada. Se uma string estiver 
 balanceada, retorne SIM. Caso contrário, retorne NAO.
 
-_Exemplo:
+Exemplo:
 
 {[()]} SIM
 
 {[(])} NAO
 
-{{[[(())]]}} SIM_
+{{[[(())]]}} SIM
 
 
 **03 – QUESTÃO**
@@ -47,7 +47,7 @@ Se você tivesse permissão para concluir no máximo uma transação (ou seja, c
 vender uma ação), crie um algoritmo para encontrar o lucro máximo.
 Note que você não pode vender uma ação antes de comprar.
 
-_Exemplo:
+Exemplo:
 
 Input: [7,1,5,3,6,4]
 
@@ -55,7 +55,7 @@ Output: 5 (Comprou no dia 2 (preço igual a 1) e vendeu no dia 5 (preço igual a
 
 Input: [7,6,4,3,1]
 
-Output: 0 (Nesse caso nenhuma transação deve ser feita, lucro máximo igual a 0)_
+Output: 0 (Nesse caso nenhuma transação deve ser feita, lucro máximo igual a 0)
 
 
 **04 – QUESTÃO**
@@ -63,10 +63,10 @@ Output: 0 (Nesse caso nenhuma transação deve ser feita, lucro máximo igual a 
 Dados n inteiros não negativos representando um mapa de elevação onde a largura de cada barra 
 é 1, calcule quanta água é capaz de reter após a chuva. 
 
-_Exemplo:
+Exemplo:
 
 <img src="img/blocos.png">
 
 Input: [0,1,0,2,1,0,1,3,2,1,2,1]
 
-Output: 6_
+Output: 6
