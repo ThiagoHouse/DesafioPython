@@ -2,7 +2,8 @@
 Desafio em Python 
 
 
-01 - QUESTÃO
+**01 - QUESTÃO**
+
 Dado um array de números inteiros, retorne os índices dos dois números de forma que eles se 
 somem a um alvo específico.
 Você pode assumir que cada entrada teria exatamente uma solução, e você não pode usar o 
@@ -17,7 +18,9 @@ Como nums[0] + nums[1] = 2 + 7 = 9,
 return [0, 1].
 
 
-02 – QUESTÃO
+
+**02 – QUESTÃO**
+
 Um bracket é considerado qualquer um dos seguintes caracteres: (, ), {, }, [ ou ].
 Dois brackets são considerados um par combinado se o bracket de abertura (isto é, (, [ou {) ocorre à esquerda de um 
 bracket de fechamento (ou seja,),] ou} do mesmo tipo exato. Existem três tipos de pares de brackets : [], {} e ().
