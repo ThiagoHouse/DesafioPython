@@ -65,7 +65,7 @@ Dados n inteiros não negativos representando um mapa de elevação onde a largu
 
 Exemplo:
 
-<img src="img/bloco.png">
+<img src="img/blocos.png">
 
 Input: [0,1,0,2,1,0,1,3,2,1,2,1]
 
